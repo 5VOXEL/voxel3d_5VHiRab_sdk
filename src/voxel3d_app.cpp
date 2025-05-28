@@ -25,7 +25,7 @@
 #include "voxel3d.h"
 
 #define TOOLS_VER_MAJOR         (1)
-#define TOOLS_VER_MINOR         (5)
+#define TOOLS_VER_MINOR         (8)
 
 #define FLIR_DISP_WIDTH         (320)
 #define FLIR_DISP_HEIGHT        (240)
